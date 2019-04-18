@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Shows</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="episode">Episode %1$s - %2$s</string>
+    <string name="director">Director: %1$s</string>
+    <string name="writer">Writer: %1$s</string>
+    <string name="rating">Rating: %1$s</string>
+    <string name="share_message">I think you should watch %1$s season %2$s!!</string>
+    <string name="share_chooser_title">Share this season with others!</string>
+    <string name="search_text">search</string>
+    <string name="error_loading">An error has occurred, please check your network connection and try again by swiping down to refresh.</string>
+    <string name="content_description_show_poster">Tv Series Poster</string>
+    <string name="content_description_episode_poster">Episode Poster</string>
+
+    <item name="TAG_VIEW_HOLDER_POSITION" type="id" />
+    <item name="TAG_VIEW_HOLDER_SPINNER_SELECTED" type="id" />
+</resources>
